@@ -11,7 +11,7 @@ golang的一个练手项目，爬取网易云音乐指定音乐下所有的评�
 ---------
 * 解析HTML
 
-[goquery](https://github.com/PuerkitoBio/goquery) 解析HTML，定位元素
+解析HTML，定位元素 [goquery](https://github.com/PuerkitoBio/goquery) 
 
 * 代理IP池：
 这个问题也困扰我好久，没有代理IP多线程的请求分分钟封IP
