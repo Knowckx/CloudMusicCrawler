@@ -1,9 +1,9 @@
 # NeteaseMusicSpider
 概述：
 ---------
-go的一个练手项目，爬取网易云音乐指定音乐下所有的评论信息。然后根据评论用户列表爬取用户信息。
+golang的一个练手项目，爬取网易云音乐指定音乐下所有的评论信息。然后根据评论用户列表爬取用户信息。
 
-最后结果会以json格式写入NeteaseMusicSpider\ResultData目录下。
+最后结果会以json格式写入NeteaseMusicSpider\ResultData目录下。目前爬取了[剧中歌](http://music.163.com/#/song?id=31889414)作为示例
 
 输入参数处理还没做，要爬啥去begin.go里修改songID变量就好了（跑~
 
